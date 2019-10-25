@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  flixster
 //
-//  Created by Job Albarr on 2/6/19.
-//  Copyright © 2019 Job Albarr. All rights reserved.
+//  Created by Steven
+//  Copyright © 2019. All rights reserved.
 //
 
 import UIKit
